@@ -1,0 +1,8 @@
+{
+  "name": "LH_AI_Agent",
+  "description": "Autonomous AI Agent integrated with DataHub MCP Server for data governance, standardized production code generation, and real-time system monitoring.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
